@@ -1,5 +1,6 @@
 #VisualStudio Code asetukset
 
+```
 Destination location:
       C:\Users\Angel\AppData\Local\Programs\Microsoft VS Code
 
@@ -13,3 +14,4 @@ Additional tasks:
          Add "Open with Code" action to Windows Explorer file context menu
          Add "Open with Code" action to Windows Explorer directory context menu
          Add to PATH (requires shell restart)
+```
